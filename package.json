@@ -1,0 +1,21 @@
+{
+  "name": "svg-icons-sprite-example",
+  "version": "1.0.21",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "sprite.svg"
+  ],
+  "types": "index.d.ts",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
